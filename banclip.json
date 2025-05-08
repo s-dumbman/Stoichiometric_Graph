@@ -1,0 +1,12 @@
+{
+    "b1": {
+        "mass": 2,
+        "f_weight": 1,
+        "volume": 2.0
+    },
+    "b2": {
+        "mass": 2,
+        "f_weight": 1,
+        "volume": 2.0
+    }
+}
